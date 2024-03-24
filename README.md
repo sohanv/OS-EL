@@ -1,6 +1,6 @@
 # 3rd Semester OS EL
 
-Topic: Memory Scanner and Memory Abnormality Detector
+Topic: Memory Scanner and Memory Anomaly Detector
 
 Note: Run the executable file in administrator mode to prevent access errors.
 
